@@ -1,0 +1,16 @@
+.confirm {
+    background-Color: aqua;
+}
+
+.selected {
+    background-Color: red;
+}
+
+.roulette {
+    width: 500px;
+    height: 500px;
+}
+
+.roulette img {
+    width: 100%;
+}
